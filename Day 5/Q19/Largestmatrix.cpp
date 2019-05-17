@@ -21,6 +21,6 @@ int main()
 			}
 		}
 	}
-	printf("Largest array:%d\n",(max-1));
+	printf("Largest array:%d\n",(max));
 	return 0;
 }
